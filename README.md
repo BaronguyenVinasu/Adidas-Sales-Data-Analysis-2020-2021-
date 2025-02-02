@@ -11,7 +11,7 @@ Adidas wants to create a sales report for the year 2020 and 2021. So that, the s
 ### Revenue & Profit Trends:
 - How does revenue, cost, and profit vary by product category, region, and sales method?
 - Which products or regions are driving the highest profitability?
-- What are the top-selling products (by units sold and revenue)?
+- What are the top-selling products (by units sold and revenue?
 - Which products have the highest/lowest profit margins?
 
 ### Sales Channel Efficiency:
